@@ -38,7 +38,7 @@ import hosting from '../../public/image/appicon/hosting.svg';
 import planing from '../../public/image/appicon/planing.svg';
 import security from '../../public/image/appicon/security.svg';
 
-import framerightimg from '../../public/image/indus_icons/framerightimg.svg';
+import framerightimg from '../../public/image/indus_icons/framerigh.svg';
 import mycomplogo from '../../public/image/indus_icons/mycomplogo.svg';
 
 import document from '../../public/image/footer/document.svg';
