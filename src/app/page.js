@@ -78,7 +78,7 @@ export default function Home() {
           height={100}
           alt="logo"
         />
-        {/* Navigation for screens larger than 1082px */}
+        
         <div className="hidden lg-1082:flex mr-24 navlinks h-full">
           <ul className="flex items-center space-x-4 h-full text-[#101828] font-roboto font-medium text-sm">
             <li>Services</li>
@@ -88,7 +88,7 @@ export default function Home() {
             <li>Contacts</li>
           </ul>
         </div>
-        {/* Contact info for screens larger than 1082px */}
+        
         <div className="hidden lg-1082:flex navContacts mr-5 flex h-full font-roboto font-medium text-sm">
           <div className="flex items-center">
             <Image
